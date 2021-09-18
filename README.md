@@ -40,7 +40,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 
-- Live Site URL: wizardly-ptolemy-a5102c.netlify.app
+- Live Site URL: https://wizardly-ptolemy-a5102c.netlify.app/
 
 ## My process
 
